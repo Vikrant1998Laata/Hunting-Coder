@@ -4,12 +4,13 @@
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  justify-content: flex-start;
+  padding-top: 1rem;
 }
 
 .footer {
@@ -42,17 +43,17 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 1.5rem;
 }
 
-.title,
+
 .description {
   text-align: center;
+  max-width: 40vw;
 }
 
 .description {
-  margin: 4rem 0;
-  line-height: 1.5;
+  line-height: 1;
   font-size: 1.5rem;
 }
 
@@ -112,5 +113,62 @@
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+}
+
+.mainnav ul{
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  margin-top: 50px;
+}
+ 
+.mainnav ul li{
+  list-style: none;
+  margin: 0 24px;
+  font-weight: bold;
+}
+
+.myImg{
+  border-radius: 92px;
+  width: 157px;
+  cursor: pointer;
+}
+
+.imagewrap{
+  padding: 15px 0px;
+}
+
+.h2{
+  font-size: 2.5rem;
+  margin: 20px 0px;
+}
+.h3{
+  font-size: 1.5rem;
+  margin: 15px 0px;
+}
+
+.btn{
+color: white;
+background-color: black;
+padding: 7px 10px;
+border-radius: 6px;
+cursor: pointer;
+}
+
+.btn:hover{
+  background-color: white;
+  color:black;
+}
+
+.p{
+  margin: 10px 0px;
+}
+
+@media screen and (max-width: 600px) {
+  .mainnav ul li {
+    list-style: none;
+    font-weight: bold;
+    margin: 0px 6px;
   }
 }

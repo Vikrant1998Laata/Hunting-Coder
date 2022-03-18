@@ -1,0 +1,17 @@
+"filename", "language", "JSON", "CSS", "Markdown", "JavaScript", "comment", "blank", "total"
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\.eslintrc.json", "JSON", 3, 0, 0, 0, 0, 1, 4
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\README.md", "Markdown", 0, 0, 20, 0, 0, 15, 35
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\components\Navbar.js", "JavaScript", 0, 0, 0, 24, 0, 3, 27
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\next.config.js", "JavaScript", 0, 0, 0, 4, 1, 2, 7
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\package.json", "JSON", 20, 0, 0, 0, 0, 1, 21
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\_app.js", "JavaScript", 0, 0, 0, 9, 0, 3, 12
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\about.js", "JavaScript", 0, 0, 0, 9, 0, 3, 12
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\api\hello.js", "JavaScript", 0, 0, 0, 3, 1, 2, 6
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\blog.js", "JavaScript", 0, 0, 0, 26, 0, 2, 28
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\blogpost\[slug].js", "JavaScript", 0, 0, 0, 10, 0, 2, 12
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\contact.js", "JavaScript", 0, 0, 0, 7, 0, 2, 9
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\index.js", "JavaScript", 0, 0, 0, 54, 0, 11, 65
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\styles\Blog.module.css", "CSS", 0, 16, 0, 0, 0, 2, 18
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\styles\Home.module.css", "CSS", 0, 117, 0, 0, 0, 20, 137
+"c:\Users\rahul\Desktop\Next.js course\huntingcoder\styles\globals.css", "CSS", 0, 14, 0, 0, 0, 3, 17
+"Total", "-", 23, 147, 20, 146, 2, 72, 410

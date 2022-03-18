@@ -1,0 +1,47 @@
+Date : 2022-03-12 23:01:20
+Directory : c:\Users\rahul\Desktop\Next.js course\huntingcoder
+Total : 15 files,  336 codes, 2 comments, 72 blanks, all 410 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| CSS        |          3 |        147 |          0 |         25 |        172 |
+| JavaScript |          9 |        146 |          2 |         30 |        178 |
+| JSON       |          2 |         23 |          0 |          2 |         25 |
+| Markdown   |          1 |         20 |          0 |         15 |         35 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         15 |        336 |          2 |         72 |        410 |
+| components                                                                  |          1 |         24 |          0 |          3 |         27 |
+| pages                                                                       |          7 |        118 |          1 |         25 |        144 |
+| pages\api                                                                   |          1 |          3 |          1 |          2 |          6 |
+| pages\blogpost                                                              |          1 |         10 |          0 |          2 |         12 |
+| styles                                                                      |          3 |        147 |          0 |         25 |        172 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                    | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\.eslintrc.json           | JSON       |          3 |          0 |          1 |          4 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\README.md                | Markdown   |         20 |          0 |         15 |         35 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\components\Navbar.js     | JavaScript |         24 |          0 |          3 |         27 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\next.config.js           | JavaScript |          4 |          1 |          2 |          7 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\package.json             | JSON       |         20 |          0 |          1 |         21 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\_app.js            | JavaScript |          9 |          0 |          3 |         12 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\about.js           | JavaScript |          9 |          0 |          3 |         12 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\api\hello.js       | JavaScript |          3 |          1 |          2 |          6 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\blog.js            | JavaScript |         26 |          0 |          2 |         28 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\blogpost\[slug].js | JavaScript |         10 |          0 |          2 |         12 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\contact.js         | JavaScript |          7 |          0 |          2 |          9 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\pages\index.js           | JavaScript |         54 |          0 |         11 |         65 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\styles\Blog.module.css   | CSS        |         16 |          0 |          2 |         18 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\styles\Home.module.css   | CSS        |        117 |          0 |         20 |        137 |
+| c:\Users\rahul\Desktop\Next.js course\huntingcoder\styles\globals.css       | CSS        |         14 |          0 |          3 |         17 |
+| Total                                                                       |            |        336 |          2 |         72 |        410 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+

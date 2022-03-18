@@ -1,0 +1,38 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 100vh;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 1rem;
+}
+
+.blogItem h3{
+    cursor: pointer;
+    font-size: 2rem;
+    padding: 0;
+    margin: 0;
+}
+
+.blogp{
+  max-width: 45vw;
+}
+
+.btn{
+  color: white;
+  background-color: black;
+  padding: 7px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  }
+  
+  .btn:hover{
+    background-color: white;
+    color:black;
+  }
